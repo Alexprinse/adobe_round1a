@@ -115,6 +115,6 @@ The modular architecture enables easy extension for:
 
 ---
 
-**Team**: Solo submission  
+**Team**: Hakuna_Matata
 **Date**: July 25, 2025  
 **Status**: Ready for submission ✅
